@@ -46,7 +46,7 @@
 	CGFloat kSpacing = 10;
 	CGFloat imageY = kSpacing;
 
-	for(CGFloat i = 0; i < 8; i++)
+	for(CGFloat i = 0; i < 20; i++)
 	{
 		/* Always round up coordinates before passing them into UIKit
 		 */
